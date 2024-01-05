@@ -23,6 +23,7 @@ ex. `2024.01.05 | Spring | About MVC pattern`
 ## Category
 
 ### Spring
+- [API @ResponseBody](Spring/api.md)
 ### Python
 ### Algorithm
 ### Javascript
