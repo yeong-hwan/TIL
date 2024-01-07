@@ -2,13 +2,6 @@
 
 [![Version](https://img.shields.io/badge/version-2024.1.5-red.svg)](./CHANGELOG)  [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yeong-hwan/TIL)](https://hits.seeyoufarm.com/)
 
-### TIL References
-- [Yurim Jalynne Jin](https://github.com/milooy)
-- [Lee HyunJoo](https://wayhome25.github.io/)
-- [Burkdog](https://github.com/ksu3101)
-- [Namjun Kim](https://github.com/namjunemy)
-
-
 ## Writing Rules
 
 * Write it in detail for no additional effort to re-leran.
@@ -278,3 +271,12 @@ ex. `2024.01.05 | Spring | About MVC pattern`
 * [Intellij Settings](https://github.com/namjunemy/TIL/blob/master/Tools/intellij_settings.md)
 
 -->
+
+---
+
+### TIL References
+- [Yurim Jalynne Jin](https://github.com/milooy)
+- [Lee HyunJoo](https://wayhome25.github.io/)
+- [Burkdog](https://github.com/ksu3101)
+- [Namjun Kim](https://github.com/namjunemy)
+
