@@ -14,7 +14,7 @@
 * Write it in detail for no additional effort to re-leran.
 * If it need to record more detailed explanations, post it on [Blog](link).
 * Do not obsessed with filling up contribution.
-* Specifies the reference and only use materials that original author allows to refer.
+* Specifies the referen ce and only use materials that original author allows to refer.
 * Commit as follows: __date | category | title__  
 ex. `2024.01.05 | Spring | About MVC pattern`
 
@@ -22,9 +22,13 @@ ex. `2024.01.05 | Spring | About MVC pattern`
 
 ## Category
 
+### Java
+- [Optional](Java/optional.md)
 ### Spring
 - [API @ResponseBody](Spring/api.md)
-- [Test Code](Spring/test.md)
+- [Test Code @AfterEach](Spring/test.md)
+    - [assertThrows](Spring/assert_throws.md)
+- [DI: Dependency Injection (Component Scan & Spring Bean)](Spring/dependency_injection.md)
 ### Python
 ### Algorithm
 ### Javascript
