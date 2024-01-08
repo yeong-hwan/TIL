@@ -17,13 +17,19 @@ ex. `2024.01.05 | Spring | About MVC pattern`
 
 ### Java
 - [Optional](Java/optional.md)
+
 ### Spring
 - [API @ResponseBody](Spring/api.md)
 - [Test Code @AfterEach](Spring/test.md)
     - [assertThrows](Spring/assert_throws.md)
 - [DI: Dependency Injection (Component Scan & Spring Bean)](Spring/dependency_injection.md)
-### Python
+- [Test Code](Spring/test.md)
+
 ### Algorithm
+- [DFS](Algorithm/dfs.md)
+
+### Python
+### Python
 ### Javascript
 ### Tools
 <!-- 
