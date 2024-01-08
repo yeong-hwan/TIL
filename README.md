@@ -11,6 +11,12 @@
 * Commit as follows: __date | category | title__  
 ex. `2024.01.05 | Spring | About MVC pattern`
 
+## Must Includes
+- Problems
+- My trial
+- How solve it
+- What I learned
+
 --- 
 
 ## Category
