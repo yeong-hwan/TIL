@@ -34,10 +34,20 @@ class MemberServiceTest {
         memberRepository = new MemoryMemberRepository( );
         memberService = new MemberService(memberRepository);
     }
+
+    @AfterEach
+    public void afterEach() {
+        memberRepository.clearStore();
+    }
+
 }
 ```
 
 ### Integration Test(@Autowired)
+- @Transactional을 이용하여 DB 롤백
+  - @AfterEach DB clear 작업이 필요없다.
+  - 보통 테스트용 DB를 따로 구축한다.
+
 ```java
 @SpringBootTest
 @Transactional
