@@ -30,7 +30,9 @@ ex. `2024.01.05 | Spring | About MVC pattern`
     - [assertThrows](Spring/assert_throws.md)
     - [Spring Integration Test](Spring/spring_integration_test.md)
 - [DI: Dependency Injection (Component Scan & Spring Bean)](Spring/dependency_injection.md)
-- [JPA](Spring/jpa.md)
+- **Database**
+    - [JPA](Spring/jpa.md)
+    - [Spring Data JPA](Spring/spring_data_jpa.md)
 
 ### Algorithm
 - [DFS](Algorithm/dfs.md)
