@@ -28,9 +28,9 @@ ex. `2024.01.05 | Spring | About MVC pattern`
 - [API @ResponseBody](Spring/api.md)
 - [Test Code @AfterEach](Spring/test.md)
     - [assertThrows](Spring/assert_throws.md)
-- [DI: Dependency Injection (Component Scan & Spring Bean)](Spring/dependency_injection.md)
-- [Test Code](Spring/test.md)
     - [Spring Integration Test](Spring/spring_integration_test.md)
+- [DI: Dependency Injection (Component Scan & Spring Bean)](Spring/dependency_injection.md)
+- [JPA](Spring/jpa.md)
 
 ### Algorithm
 - [DFS](Algorithm/dfs.md)
