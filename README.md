@@ -23,6 +23,7 @@ ex. `2024.01.05 | Spring | About MVC pattern`
 
 ### Java
 - [Optional](Java/optional.md)
+- [Polymorphism](Java/polymorphism.md)
 
 ### Spring
 - [Spring Design Philosophy](Spring/spring_design_philosophy.md)
