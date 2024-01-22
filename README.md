@@ -25,6 +25,7 @@ ex. `2024.01.05 | Spring | About MVC pattern`
 - [Optional](Java/optional.md)
 
 ### Spring
+- [Spring Design Philosophy](Spring/spring_design_philosophy.md)
 - [API @ResponseBody](Spring/api.md)
 - [Test Code @AfterEach](Spring/test.md)
     - [assertThrows](Spring/assert_throws.md)
