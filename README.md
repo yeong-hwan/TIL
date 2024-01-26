@@ -24,6 +24,7 @@ ex. `2024.01.05 | Spring | About MVC pattern`
 ### Java
 - [Optional](Java/optional.md)
 - [Polymorphism](Java/polymorphism.md)
+- [SOLID](Java/solid.md)
 
 ### Spring
 - [Spring Design Philosophy](Spring/spring_design_philosophy.md)
@@ -36,6 +37,8 @@ ex. `2024.01.05 | Spring | About MVC pattern`
     - [JPA](Spring/jpa.md)
     - [Spring Data JPA](Spring/spring_data_jpa.md)
 - [AOP](Spring/aop.md)
+- [SOLID in Spring](Spring/solid_in_spirng.md)
+
 ### Algorithm
 - [DFS](Algorithm/dfs.md)
 
