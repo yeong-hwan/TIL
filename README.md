@@ -43,7 +43,9 @@ ex. `2024.01.05 | Spring | About MVC pattern`
 1. Internet Network
     - [Internet Protocol](Http/internet_protocol.md)
     - [TCP & UDP](Http/tcp.md)
+    - [Port & DNS](Http/port_dns.md)
 2. URI and Web browser request flow
+
 3. HTTP Basic
 4. HTTP Method & Application
 5. Status Code 

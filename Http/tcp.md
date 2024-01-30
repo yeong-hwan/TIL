@@ -24,7 +24,7 @@
 - 신뢰할 수 있는 프로토콜
 - 현재는 대부분 TCP 사용 
 
-### 3 Way Hanshake
+### 3 Way Handshake
 ![](img/tcp_3.png?raw=true)
 
 ### UDP 특징
